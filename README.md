@@ -1,6 +1,6 @@
 ArduinoPlotter
 ===============
-an Arduino library for easy plotting using Processing via serial communication
+An Arduino library for easy plotting on host computer via serial communication
 
 _by: Devin Conley_
 
