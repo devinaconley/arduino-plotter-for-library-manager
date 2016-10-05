@@ -1,4 +1,4 @@
-ArduinoPlotter
+Arduino-Plotter
 ===============
 An Arduino library for easy plotting on host computer via serial communication
 
@@ -8,4 +8,4 @@ _by: Devin Conley_
 
 For more information, quick-start guide, and listeners, please go to:
 
-https://github.com/devinconley/ArduinoPlotter
+https://github.com/devinconley/Arduino-Plotter
