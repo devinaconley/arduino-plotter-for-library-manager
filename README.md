@@ -8,4 +8,4 @@ _by: Devin Conley_
 
 For more information, quick-start guide, and listeners, please go to:
 
-https://github.com/devinconley/Arduino-Plotter
+https://github.com/devinaconley/arduino-plotter
